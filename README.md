@@ -1,6 +1,7 @@
 # The Conflict Framing Elasticity
 
 **A Three-Layer Diagnostic of Media Coverage and Democratic Erosion in 40 Countries, 2017–2026**
+📄 **[Read the manuscript (PDF)](manuscript.pdf)**
 
 Alejandro Feged-Rivadeneira  
 Tecnológico de Monterrey  
